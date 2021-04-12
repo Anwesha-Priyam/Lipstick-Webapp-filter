@@ -1,0 +1,10 @@
+body
+{
+    background-image: url("Bg.png");
+    background-size: contain;
+    background-position: center;
+}
+label
+{
+   color: violet;
+}
